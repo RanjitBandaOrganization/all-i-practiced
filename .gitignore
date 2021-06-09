@@ -1,0 +1,5 @@
+#File type exclusion
+/CICD.wiki/*.*
+/git.wiki/*.*
+/best-practicies.wiki/*.*
+/web.wiki/*.*
